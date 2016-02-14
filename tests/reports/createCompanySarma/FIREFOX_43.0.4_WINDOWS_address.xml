@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="address"
+    errors="0" failures="0" hostname="" id="" package="createCompanySarma" skipped="0"
+    tests="1" time="34.37" timestamp="Sun, 14 Feb 2016 15:14:21 GMT">
+  
+    <testcase name="check address for selected country" time="34.37" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

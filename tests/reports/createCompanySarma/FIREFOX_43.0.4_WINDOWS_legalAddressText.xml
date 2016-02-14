@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="legalAddressText"
+    errors="0" failures="0" hostname="" id="" package="createCompanySarma" skipped="0"
+    tests="1" time="38.22" timestamp="Sun, 14 Feb 2016 15:16:12 GMT">
+  
+    <testcase name="check legal address if only text field filled and no select" time="38.22" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
